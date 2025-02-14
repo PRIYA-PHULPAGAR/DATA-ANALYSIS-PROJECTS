@@ -1,0 +1,22 @@
+📈 Mutual Fund Analysis
+🎯 Objective
+The goal of this project is to analyze the performance of various mutual funds over time, focusing on key financial metrics such as:
+
+Net Asset Value (NAV)
+Returns (%)
+Expense Ratios (%)
+Risk Levels
+By examining these factors, we aim to understand fund performance trends, the impact of expense ratios on returns, and the overall risk distribution.
+
+📂 Dataset
+The dataset contains historical mutual fund performance data, including:
+
+Date – The recorded date of NAV.
+Fund – The name of the mutual fund.
+NAV – Net Asset Value of the fund.
+Return (%) – Percentage return of the fund.
+Expense Ratio (%) – Fund expense ratio.
+Risk Level – Categorized as Low, Medium, or High.
+
+🛠️ Tools & Technologies
+Python (Pandas ​
